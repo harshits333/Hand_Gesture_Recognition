@@ -1,2 +1,4 @@
 # Hand_Gesture_Recognition
-Hand_Gesture_Recognition using LDA Classifier on EMG signals
+---
+
+Hand Gesture Recognition using `LDA Classifier` on EMG signals
